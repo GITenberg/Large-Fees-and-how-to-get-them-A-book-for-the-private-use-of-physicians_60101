@@ -1,0 +1,30 @@
+_repo: Large-Fees-and-how-to-get-them-A-book-for-the-private-use-of-physicians_60101
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harmon, Albert V.
+    gutenberg_agent_id: '50792'
+    url: http://www.gutenberg.org/2009/agents/50792
+  - agent_name: Lydston, G. Frank (George Frank)
+    aliases:
+    - Lydston, Frank
+    - Lydston, George Frank
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '50272'
+    url: http://www.gutenberg.org/2009/agents/50272
+description: ''
+gutenberg_issued: '2019-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Large Fees and how to get them
+
+  A book for the private use of physicians'
+url: http://www.gutenberg.org/ebooks/60101
